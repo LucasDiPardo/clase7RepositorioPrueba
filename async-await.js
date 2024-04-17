@@ -7,7 +7,7 @@ async function getProvincias() {
     console.log(provincias)
 }
 
-
+console.log('commit de prueba desde visual jeje')
 getProvincias()
 
 
